@@ -1,6 +1,6 @@
-remmina (1.2.30-1+remmina1) UNRELEASED; urgency=medium
+remmina (1.2.30-1) unstable; urgency=medium
 
-  * Test build.
+  * New upstream release.
 
  -- Antenore Gatta <antenore@simbiosi.org>  Tue, 22 May 2018 21:59:48 +0200
 
