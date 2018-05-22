@@ -1,0 +1,2 @@
+version=3
+https://github.com/FreeRDP/Remmina/releases /FreeRDP/Remmina/archive/v(.+)\.(?:tar\.xz|txz|tar\.bz2|tbz2|tar\.gz|tgz)
