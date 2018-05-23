@@ -23,7 +23,7 @@ Build-Depends:
  libssh-dev (>= 0.6),
  libtelepathy-glib-dev,
  libvncserver-dev,
- libvte-2.91-dev,
+ libvte-2.90-dev | libvte-2.91-dev,
  libxkbfile-dev
 Standards-Version: 4.1.4
 Homepage: http://www.remmina.org/
