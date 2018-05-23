@@ -6,7 +6,7 @@ Uploaders:
  Antenore Gatta <antenore@simbiosi.org>,
  Giovanni Panozzo <giovanni@panozzo.it>
 Build-Depends:
- cmake (>= 3.5),
+ cmake (>= 2.8),
  debhelper (>= 9~),
  libfreerdp-dev (>= 2.0.0~) | freerdp2-dev,
  libappindicator3-dev,
