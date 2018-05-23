@@ -101,7 +101,8 @@ Multi-Arch: same
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
- remmina (= ${binary:Version})
+ remmina (= ${binary:Version}),
+ libfreerdp-client2
 Description: RDP plugin for Remmina
  Remmina is a remote desktop client written in GTK+, aiming to be
  useful for system administrators and travellers, who need to work
