@@ -20,7 +20,7 @@ Build-Depends:
  libsoup2.4-dev,
  libspice-client-gtk-3.0-dev,
  libspice-protocol-dev,
- libssh-dev (>= 0.7),
+ libssh-dev (>= 0.6),
  libtelepathy-glib-dev,
  libvncserver-dev,
  libvte-2.91-dev,
