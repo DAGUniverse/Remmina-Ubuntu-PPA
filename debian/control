@@ -12,7 +12,7 @@ Build-Depends:
  libappindicator3-dev,
  libavahi-ui-gtk3-dev (>= 0.6.0),
  libgcrypt-dev | libgcrypt20-dev,
- libgnutls28-dev,
+ libgnutls-dev | libgnutls28-dev,
  libgtk-3-dev,
  libjpeg-dev,
  libjson-glib-dev,
