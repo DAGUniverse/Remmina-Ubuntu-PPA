@@ -34,7 +34,8 @@ Multi-Arch: foreign
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
- remmina-common (= ${source:Version})
+ remmina-common (= ${source:Version}),
+ default-dbus-session-bus | dbus-session-bus | dbus-x11
 Recommends:
  remmina-plugin-rdp,
  remmina-plugin-vnc,
